@@ -32,7 +32,6 @@ static size_t	i_len(const char *str, char c)
 	}
 	return (count);
 }
-// "   tugce   altay   "
 
 char	**ft_split(char const *s, char c)
 {
